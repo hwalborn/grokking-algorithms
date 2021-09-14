@@ -1,0 +1,15 @@
+/Users/Holt/Code/grokking-algorithms/bin/Debug/net5.0/grokking-algorithms.deps.json
+/Users/Holt/Code/grokking-algorithms/bin/Debug/net5.0/grokking-algorithms.runtimeconfig.json
+/Users/Holt/Code/grokking-algorithms/bin/Debug/net5.0/grokking-algorithms.runtimeconfig.dev.json
+/Users/Holt/Code/grokking-algorithms/bin/Debug/net5.0/grokking-algorithms.dll
+/Users/Holt/Code/grokking-algorithms/bin/Debug/net5.0/ref/grokking-algorithms.dll
+/Users/Holt/Code/grokking-algorithms/bin/Debug/net5.0/grokking-algorithms.pdb
+/Users/Holt/Code/grokking-algorithms/obj/Debug/net5.0/grokking-algorithms.csproj.AssemblyReference.cache
+/Users/Holt/Code/grokking-algorithms/obj/Debug/net5.0/grokking-algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Holt/Code/grokking-algorithms/obj/Debug/net5.0/grokking-algorithms.AssemblyInfoInputs.cache
+/Users/Holt/Code/grokking-algorithms/obj/Debug/net5.0/grokking-algorithms.AssemblyInfo.cs
+/Users/Holt/Code/grokking-algorithms/obj/Debug/net5.0/grokking-algorithms.csproj.CoreCompileInputs.cache
+/Users/Holt/Code/grokking-algorithms/obj/Debug/net5.0/grokking-algorithms.dll
+/Users/Holt/Code/grokking-algorithms/obj/Debug/net5.0/ref/grokking-algorithms.dll
+/Users/Holt/Code/grokking-algorithms/obj/Debug/net5.0/grokking-algorithms.pdb
+/Users/Holt/Code/grokking-algorithms/obj/Debug/net5.0/grokking-algorithms.genruntimeconfig.cache

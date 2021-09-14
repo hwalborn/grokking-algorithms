@@ -1,4 +1,6 @@
 ﻿using System;
+using grokking_algorithms.ChapterOne;
+using grokking_algorithms.ChapterTwo;
 
 namespace grokking_algorithms
 {
@@ -6,7 +8,8 @@ namespace grokking_algorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // BinarySearch.DoSearch();
+            SelectionSort.Solution();
         }
     }
 }
