@@ -2,6 +2,7 @@
 using grokking_algorithms.ChapterFour;
 using grokking_algorithms.ChapterOne;
 using grokking_algorithms.ChapterTwo;
+using grokking_algorithms.ChapterSix;
 
 namespace grokking_algorithms
 {
@@ -11,7 +12,8 @@ namespace grokking_algorithms
         {
             // BinarySearch.DoSearch();
             // SelectionSort.Solution();
-            QuickSort.Solution();
+            // QuickSort.Solution();
+            Console.WriteLine(BreadthFirst.Solution("thom"));
         }
     }
 }
